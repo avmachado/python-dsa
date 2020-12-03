@@ -6,4 +6,4 @@ Os notebooks aqui apresentados foram construídos baseados nos exercícios do cu
 - [Cap03](https://github.com/avmachado/python-dsa/tree/master/cap03-condicionais-metodos-funcoes): Loops, Condicionais, Métodos e Funções
 - [Cap04](https://github.com/avmachado/python-dsa/tree/master/cap04-arquivos-funcoes-builtin-modulos-pacotes): Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 - [Cap08](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria): Análise Exploratória de Dados
-- [Mini-Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto): Mini Projeto para análise exploratória de dados
+- [Mini-Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto): Mini Projeto para Análise Exploratória de Dados
